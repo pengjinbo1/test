@@ -1,0 +1,32 @@
+{
+  "name": "release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-remove-strict-mode": "0.0.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-runtime": "^6.26.0",
+    "cheerio": "^1.0.0-rc.2",
+    "grunt": "^1.0.3",
+    "grunt-babel": "^7.0.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-compress": "^1.4.3",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-debug": "0.0.3",
+    "grunt-node-optimize": "^1.2.1",
+    "grunt-ssh": "^0.12.9",
+    "grunt-text-replace": "^0.4.0",
+    "helpers": "0.0.6",
+    "interop-require": "^1.0.0"
+  }
+}
